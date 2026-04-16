@@ -22,6 +22,9 @@ ppdm-to-do-list-app-v1/
         ├── EditTask/              
         │   ├── index.js
         │   └── style.js
+        ├── SearchBar/
+        │   ├── index.js
+        │   └── style.js
         ├── TaskCard/             
         │   ├── index.js
         │   └── style.js
